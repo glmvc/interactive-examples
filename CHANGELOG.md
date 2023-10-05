@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.2.1](https://github.com/mdn/interactive-examples/compare/v2.2.0...v2.2.1) (2023-10-05)
+
+
+### Bug Fixes
+
+* **css:** for font examples use 'rem' instead of 'em' ([#2604](https://github.com/mdn/interactive-examples/issues/2604)) ([822ffc3](https://github.com/mdn/interactive-examples/commit/822ffc311ae370991cb1ac94e8d8da24a90b6e75))
+* **pseudo class empty:** removed whitespace example ([#2582](https://github.com/mdn/interactive-examples/issues/2582)) ([66f59c8](https://github.com/mdn/interactive-examples/commit/66f59c8cd6e50af3c321039eabfc3722f1a65979))
+* vulnerabilities with `npm audit fix` ([#2620](https://github.com/mdn/interactive-examples/issues/2620)) ([2a51597](https://github.com/mdn/interactive-examples/commit/2a515974ac2bca0685784228a341556f1c6d18d8))
+
 ## [2.2.0](https://github.com/mdn/interactive-examples/compare/v2.1.1...v2.2.0) (2023-08-29)
 
 
